@@ -1,0 +1,69 @@
+231118 토
+- 설치 옵션
+react-router-dom
+styled-components
+#react-device-detect
+- 회원가입/로그인
+1. 상단 메뉴
+2. 컨텐츠
+3. 색상조합
+4. 단일 페이지 제작
+5. 섹션 구분 : header / body / footer
+6. 반응형
+7. pc 모바일 구분
+https://usage.tistory.com/46
+https://leftday.tistory.com/40
+https://velog.io/@magnacut/React-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9PC%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%B4%EB%B3%B4%EC%9E%90
+8. 라우터 사용 예시
+https://goddaehee.tistory.com/305
+9. 토글 메뉴
+https://devilfront.tistory.com/83
+10. 네비게이션 메뉴
+https://velog.io/@whoyoung90/TIL-26-WECODE-React-LUSH-Cloning-nav%EB%B0%94-%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4-%EB%A9%94%EB%89%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0
+11. 메뉴 모양 변경
+https://codesandbox.io/s/responsive-mobile-and-desktop-menu-example-in-react-x822d?file=/src/styles.css
+https://codesandbox.io/s/responsive-mobile-and-desktop-menu-example-in-react-gn5d5r
+
+=================================================================================
+231120 월
+1. class vs function + arrow function
+https://bugerstory.tistory.com/93
+https://mesonia.tistory.com/43
+2. function vs arrow function
+https://velog.io/@lkhcoding/Javascript-function-vs-arrow-function
+https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/
+3. arrow function => header
+https://blog.pumpkin-raccoon.com/70
+4. 브라우저 크기 감지
+https://9yujin.tistory.com/20
+5. 네이게이션 바
+https://www.daleseo.com/react-side-navigation/
+6. 스타일 적용 방법
+- 방법1. 스타일을 적용할 파일에 css 파일을 import
+- 방법2. 스타일을 적용할 파일에 styled-components 를 직접 설정(같은 파일에 const로 선언)
+- 방법3. 스타일을 적용할 파일에 미리 styeld-components 를 설정해놓은 js파일을 import(스타일을 설정해놓은 js파일에는 export const 로 선언)
+https://www.daleseo.com/react-styled-components/
+https://stackoverflow.com/questions/58658901/styled-components-putting-styling-in-a-separate-file-and-import-it-in-to-compo
+7. 카드 스타일 참고
+https://duckgugong.tistory.com/243
+8. git upload
+https://soda-dev.tistory.com/12
+
+=================================================================================
+231125 토
+1. 컴포넌트 정렬 방법
+https://www.freecodecamp.org/korean/news/cssro-mueosideun-jungang-jeongryeolhaneun-bangbeob-div-tegseuteu-deung/
+2. 애니메이션 메뉴바
+https://www.youtube.com/watch?app=desktop&v=1fAvRKCjdc0
+https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3
+https://css-tricks.com/hamburger-menu-with-a-side-of-react-hooks-and-styled-components/
+- 메뉴바 스타일(6번, 7번)
+https://onaircode.com/best-react-menu-component-code-snippet/
+
+- login/signup, mypage/logout 아이콘으로 표시, 마우스 hover 시 애니메이션 텍스트 표시
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+/* desktop 메뉴 스타일 */
+@media all and (min-width: 768px) {
+    .menu-desktop-mode {
+        display: block;
+    }
+    .menu-mobile-mode {
+        display: none;
+    }
+}
+/* mobile 메뉴 스타일 */
+@media all and (max-width: 767px) {
+    .menu-desktop-mode {
+        display: none;
+    }
+    .menu-mobile-mode {
+        display: block;
+    }
+}
